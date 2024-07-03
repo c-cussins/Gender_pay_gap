@@ -8,6 +8,7 @@ SELECT COUNT (employername) FILTER (WHERE diffmeanhourlypercent = 0)
 FROM public.gender_pay_gap_21_22
 ;
 
+--- attempt at histogram
 
 SELECT 
 --diffmeanhourlypercent
